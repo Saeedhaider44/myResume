@@ -14,14 +14,10 @@ To view the resume, simply open `index.html` in a web browser.
 ### 📂 File Structure
 ```
 📁 Online-Resume
-│── Components
-          |── Contact
-                  |── contact.html       # Contact details
-          |── Hobbies
-                  |── contact.html       # Hobbies & interests
-|── images
-      |── My image.jpg       # Profile picture (replace with your image)          
-│── index.html      # Main resume page
+│── index.html        # Main resume page
+│── contact.html      # Contact details
+│── hobbies.html      # Hobbies & interests
+│── profile.jpg       # Profile picture (replace with your image
 │── style.css      # Main StyleSheet
 │── README.md         # Project documentation
 ```
