@@ -1,0 +1,48 @@
+
+.mb-0{
+    margin-bottom: 0px;
+}
+
+.title h1, .title h3{
+    margin: 2px;
+}
+.imgContainer{
+    margin-top: 10px;
+}
+.imgContainer img{
+    min-width: 250px;
+    max-width: 250px;
+}
+.w-98{
+    width: 98vw;
+}
+.justify-bw{
+    justify-content: space-between;
+}
+.justify-evenly{
+    justify-content: space-evenly;
+}
+.flex{
+    display: flex;
+}
+.justify-center{
+    justify-content: center;
+}
+.g-2{
+    gap: 40px;
+}
+
+.deco-none{
+    text-decoration: none;
+}
+.bg-silver{
+    background-color: silver;
+}
+
+.p-fix{
+    position: fixed;
+}
+
+.bottom-0{
+    bottom: 0px;
+}
